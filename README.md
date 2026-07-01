@@ -91,4 +91,4 @@ Additional keys:
 
 ## Notes
 
-This project uses Windows-specific console functions such as `_getch`, `Sleep`, `gotoxy`, and `system("cls")`, so it is intended to be built and run on Windows with Visual Studio / MSVC.
+This project uses Windows specific console functions such as `_getch`, `Sleep`, `gotoxy`, and `system("cls")`, so it is intended to be built and run on Windows with Visual Studio / MSVC.
