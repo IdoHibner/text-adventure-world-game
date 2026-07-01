@@ -87,6 +87,7 @@ Additional keys:
 - `ESC` - pause menu
 - `C` - toggle color mode
 - `S` - save game
+- `R` - restart level
 - `L` - load saved game from the main menu
 
 ## Notes
