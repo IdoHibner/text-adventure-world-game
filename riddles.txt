@@ -1,0 +1,40 @@
+I hold the memory address of another variable. What am I?
+Pointer
+I am the function where every C++ program begins. What is my name?
+Main
+I am a blueprint for creating objects, containing data and methods. What am I?
+Class
+I store a fixed-size sequence of elements of the same type. What am I?
+Array
+I am a data type that can only be true or false. What am I?
+Bool
+I translate your human-readable code into machine language. What am I?
+Compiler
+I am a special function that is called when an object is created. What am I?
+Constructor
+I am a way to group related variables of different types under one name. What am I?
+Struct
+I am a loop that continues as long as a certain condition is true. What am I?
+While
+I am a feature that allows functions to have the same name but different parameters. What am I?
+overloading
+I am a type of function that does not return any value. What am I?
+Void
+I am a type of loop that iterates over a range of values. What am I?
+For
+I am a mechanism that allows a function to call itself. What am I?
+Recursion
+I am a type of variable that retains its value between function calls. What am I?
+Static
+I am a type of loop that guarantees at least one execution of the loop body. What am I?
+Do
+I am a special function that is called when an object goes out of scope. What am I?
+Destructor
+I am a feature that allows you to create a new class based on an existing class. What am I?
+Inheritance
+I am a special type of function that can access private members of a class. What am I?
+Friend
+I am a way to convert one data type to another explicitly. What am I?
+Casting
+I am a type of operator that returns the variable itself. What am I?
+Reference

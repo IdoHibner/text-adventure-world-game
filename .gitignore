@@ -1,0 +1,35 @@
+# Visual Studio user/cache files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+Text_Adv.e02aa5d0/
+
+# C/C++ build artifacts
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.db
+*.opendb
+
+# Generated game files
+adv-world.steps
+adv-world.result
+*.save

@@ -1,0 +1,72 @@
+===============================================================================
+                       G A M E   I N S T R U C T I O N S
+===============================================================================
+
+OBJECTIVE:
+   - Work together! You control two players. Your goal is to guide both of them
+     to the exit door to proceed to the next level.
+   - Score points by collecting cookies, solving riddles or bombing golems.
+     WATCH OUT: The more time you take, the less points you get!
+                You lose points for wrong riddle answers!
+   - PAY ATTENTION: Each player has limited health. If one player loses all
+                    their health, you will have to restart the game!
+   - Each player can carry one item at a time. You can drop items to pick up
+     different ones, or to use them (like bombs).
+
+
+
+
+
+
+CONTROLS:
+  ----------------------------------------------
+  | Action       | Player 1 ($) | Player 2 (&) |
+  ----------------------------------------------
+  | Move Up      |      W       |      I       |
+  | Move Down    |      X       |      M       |
+  | Move Left    |      A       |      J       |
+  | Move Right   |      D       |      L       |
+  | Stay         |      S       |      K       |
+  | Drop Item    |      E       |      O       |
+  ----------------------------------------------
+
+GENERAL KEYS:
+  [ESC] - Pause Menu (Resume, Restart Level, or Exit to Main Menu)
+  [C] - Enable/Disable Game Color Mode. Toggle in the main menu.
+  [S] - Save current game state.
+  [L] - Load previously saved game state. Available from the main menu.
+
+
+
+GAME ELEMENTS:
+  [ W ] Wall: Blocks your path.
+  [ K ] Key: Pick it up to unlock doors.
+  [ 9 ] Door: Enter it in order to move to the next level.
+              PAY ATTENTION: Both players must enter the door!
+  [ ? ] Riddle: Answer correctly to remove it. Wrong answer? Try again.
+  [ / ] Switch: Flick them in order to accsess the doors.
+                (When ON, they look like '\')
+  [ @ ] Bomb: Pick it up and drop it to destroy nearby objects.
+              WARNING: It explodes after 10 moves! Stay away from the blast! 
+              Make sure not to explode critical objects!
+  [ ! ] Torch: Light up dark areas to see hidden objects.
+               You need to hold it to keep the area lit!
+  [ # ] Spring: Jump to push obstacles away and clear your path,
+                Or just to get a temporary speed boost!
+  [ * ] Obstacle: Blocks your path.
+                  Can be destroyed by bombs or moved with springs,
+                  or moved by 2 players pushing it together (if it's size is 2).
+                  Obstacles of size 1 can also be pushed by a single player.
+
+EXTRA ELEMENTS:
+  [ > ] Portal: Step on it to be teleported to its matching portal.
+  [ X ] Golem: Avoid it! It moves around and will crush you if it
+               lands on your position.
+  [ + ] Cookie: Collect it for bonus points!
+
+TIPS:
+  - If you are struggling to solve a riddle, think of a different perspective!
+  - Be wary of the number of bombs you have! They are limited!
+  - If you get stuck, press ESC->R to restart the level. IT WILL NOT RESET
+    YOUR HEALTH!
+  - Try bombing the golems, it's hard but will grant you bonus points!

@@ -1,0 +1,36 @@
+#pragma once
+
+static bool g_colors_enabled = false;
+
+void gotoxy(int x, int y);
+void hideCursor();
+void cls();
+void sleep();
+void sleep100();
+void sleep500();
+void sleep2000();
+
+enum class Color
+{
+	BLACK = 0,
+	BLUE = 1,
+	GREEN = 2,
+	CYAN = 3,
+	RED = 4,
+	MAGENTA = 5,
+	BROWN = 6,
+	LIGHTGREY = 7,
+	DARKGREY = 8,
+	LIGHTBLUE = 9,
+	LIGHTGREEN = 10,
+	LIGHTCYAN = 11,
+	LIGHTRED = 12,
+	LIGHTMAGENTA = 13,
+	YELLOW = 14,
+	WHITE = 15,
+};
+
+void setTextColor(Color color);
+Color getColorForChar(char c);
+void setColorsEnabled(bool enabled);
+bool areColorsEnabled();
